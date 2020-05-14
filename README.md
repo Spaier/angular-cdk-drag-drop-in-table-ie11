@@ -7,3 +7,11 @@
 ```
 ng serve
 ```
+
+## Expected
+
+![Expected Gif](./assets/expected.gif)
+
+## Actual
+
+![Actual Gif](./assets/actual.gif)
